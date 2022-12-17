@@ -22,6 +22,6 @@ It is a web application for food delivery service.
 #### Sign Up
 
 <p align="center">
-<img src="https://github.com/PaulLee24/Food-Delivery-Website/blob/main/image/Sign-up.png" width=80% height=80%>
+<img src="https://github.com/PaulLee24/Food-Delivery-Website/blob/main/image/Sign-up.png" width=60% height=60%>
 </p>
 
