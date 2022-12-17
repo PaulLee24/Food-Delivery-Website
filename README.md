@@ -12,7 +12,7 @@ It is a web application for food delivery service.
 
 ## Relational Model
 
-<p align="center">
+<p align="left">
 <img src="https://github.com/PaulLee24/Food-Delivery-Website/blob/main/image/Relational_model.jpg" width=80% height=80%>
 </p>
 
