@@ -56,15 +56,3 @@ It is a web application for food delivery service.
 </p>
 
 
-## E-R Model
-
-<p align="center">
-<img src="https://github.com/PaulLee24/Food-Delivery-Website/blob/main/image/ER_model.jpg" width=80% height=80%>
-</p>
-
-## Relational Model
-
-<p align="center">
-<img src="https://github.com/PaulLee24/Food-Delivery-Website/blob/main/image/Relational_model.jpg" width=80% height=80%>
-</p>
-
